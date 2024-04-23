@@ -1,7 +1,1 @@
-.DS_Store
-dist
-./logs
 node_modules
-*.code-workspace
-.DS_Store
-src/.DS_Store
