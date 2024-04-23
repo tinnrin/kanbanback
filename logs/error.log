@@ -105,3 +105,38 @@
 {"level":30,"time":1713884819107,"pid":19892,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/logs/error, GET} route"}
 {"level":30,"time":1713884819108,"pid":19892,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/logs/info, GET} route"}
 {"level":30,"time":1713884819111,"pid":19892,"hostname":"WIN-7CDG1QVJFJP","msg":"Nest application successfully started"}
+{"level":30,"time":1713885182369,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"AppController {/}:"}
+{"level":30,"time":1713885182373,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/, GET} route"}
+{"level":30,"time":1713885182373,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"UsersController {/users}:"}
+{"level":30,"time":1713885182374,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/users, GET} route"}
+{"level":30,"time":1713885182375,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/users/:id, GET} route"}
+{"level":30,"time":1713885182376,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/users/:id, DELETE} route"}
+{"level":30,"time":1713885182377,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/users/:id, PUT} route"}
+{"level":30,"time":1713885182377,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"AuthController {/}:"}
+{"level":30,"time":1713885182378,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/signin, POST} route"}
+{"level":30,"time":1713885182379,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/signup, POST} route"}
+{"level":30,"time":1713885182379,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"BoardsController {/boards}:"}
+{"level":30,"time":1713885182380,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/boards, GET} route"}
+{"level":30,"time":1713885182381,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/boards/:id, GET} route"}
+{"level":30,"time":1713885182382,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/boards, POST} route"}
+{"level":30,"time":1713885182383,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/boards/:id, DELETE} route"}
+{"level":30,"time":1713885182383,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/boards/:id, PUT} route"}
+{"level":30,"time":1713885182383,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"ColumnsController {/boards/:boardId/columns}:"}
+{"level":30,"time":1713885182384,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/boards/:boardId/columns, GET} route"}
+{"level":30,"time":1713885182385,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/boards/:boardId/columns/:columnId, GET} route"}
+{"level":30,"time":1713885182385,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/boards/:boardId/columns, POST} route"}
+{"level":30,"time":1713885182386,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/boards/:boardId/columns/:columnId, DELETE} route"}
+{"level":30,"time":1713885182387,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/boards/:boardId/columns/:columnId, PUT} route"}
+{"level":30,"time":1713885182387,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"TasksController {/boards/:boardId/columns/:columnId/tasks}:"}
+{"level":30,"time":1713885182388,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks, GET} route"}
+{"level":30,"time":1713885182388,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks/:taskId, GET} route"}
+{"level":30,"time":1713885182389,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks, POST} route"}
+{"level":30,"time":1713885182389,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks/:taskId, DELETE} route"}
+{"level":30,"time":1713885182390,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks/:taskId, PUT} route"}
+{"level":30,"time":1713885182390,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"FileController {/}:"}
+{"level":30,"time":1713885182391,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/file, POST} route"}
+{"level":30,"time":1713885182391,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/file/:taskid/:filename, GET} route"}
+{"level":30,"time":1713885182391,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"LogsController {/logs}:"}
+{"level":30,"time":1713885182392,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/logs/error, GET} route"}
+{"level":30,"time":1713885182393,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Mapped {/logs/info, GET} route"}
+{"level":30,"time":1713885182396,"pid":20572,"hostname":"WIN-7CDG1QVJFJP","msg":"Nest application successfully started"}
