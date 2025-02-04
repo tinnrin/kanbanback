@@ -10,7 +10,7 @@ dotenv_1.default.config({
 });
 const { POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB, POSTGRES_PORT, POSTGRES_HOST, DATABASE_URL } = process.env;
 //const LOCAL_URL = `postgres://${POSTGRES_USER}:${POSTGRES_PASSWORD}@${POSTGRES_HOST}:${POSTGRES_PORT}/${POSTGRES_DB}`;
-const LOCAL_URL = `${DATABASE_URL}`
+const LOCAL_URL = `postgresql://kanban_48br_user:HqZf1ktC7olypgf7eenFU9f3HhH0Cwo3@dpg-cugoll1u0jms73foqov0-a.frankfurt-postgres.render.com/kanban_48br`
 exports.default = {
     type: 'postgres',
     cache: false,
